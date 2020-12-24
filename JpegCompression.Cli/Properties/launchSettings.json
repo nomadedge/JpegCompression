@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JpegCompression.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "e \"C:\\Users\\nomad\\OneDrive\\Study\\Modern information theory\\Homework\\JPEG\\jpeg30\\airplane30.jpg\""
+    }
+  }
+}
